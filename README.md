@@ -1,3 +1,3 @@
 ## uwu
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=owo+TwT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000000000&random=false&width=435&lines=owo+TwT" alt="Typing SVG" /></a>
 
